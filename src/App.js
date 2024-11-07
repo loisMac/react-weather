@@ -1,6 +1,4 @@
 
-
-import { NavLink } from 'react-bootstrap';
 import Weather from './Weather.js';
 import Button from './Button.js';
 
